@@ -6,6 +6,8 @@ print(jmeno + "@" + "czechitas.cz")
 
 
 # nepovinný bonus k úkolu 1
+# iniciály a zkracování mi daly zabrat a nakonec jsem to udělala pomocí indexů, nevím, jak bych to udělala jen pomocí znalostí z první lekce
+
 
 jmeno_a_prijmeni = input("Napiš svoje jméno a příjmení: ")
 
