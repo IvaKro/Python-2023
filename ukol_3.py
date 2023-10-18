@@ -1,7 +1,6 @@
 
 
 # Soubor si ulož a načti do slovníku.
-
 # Z písemky nebude známka,
 # ale jen Pass/Fail hodnocení neboli prospěl(a)/neprospěl(a).
 # Vytvoř nový slovník. Jeho klíče budou opět jména žáků,
