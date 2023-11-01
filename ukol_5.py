@@ -34,7 +34,7 @@ print("Polední a noční:", poledni_a_nocni)
 # BONUS
 # Pomocí dict comprehension vytvoř slovník, který bude mít následující formát,
 # kde klíčem bude den v týdnu, a hodnotou průměrná teplota ten den.
-# {den: průměrná teplota}
+# {den: průměrná teplota} 
 
 teploty = [
     ["pondělí", 2.1, 5.2, 6.1, -0.1],
